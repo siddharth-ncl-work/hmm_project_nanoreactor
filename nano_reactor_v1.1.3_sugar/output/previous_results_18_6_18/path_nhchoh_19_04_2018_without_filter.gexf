@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="directed" mode="static">
+    <nodes>
+      <node id="frame=0&#10;8_6_7_&#10;N_C_H_&#10;[(8, 6), (6, 7)]" label="frame=0&#10;8_6_7_&#10;N_C_H_&#10;[(8, 6), (6, 7)]" />
+      <node id="frame=0&#10;48_49_50_&#10;O_H_H_&#10;[(48, 49), (48, 50)]" label="frame=0&#10;48_49_50_&#10;O_H_H_&#10;[(48, 49), (48, 50)]" />
+      <node id="frame=3014&#10;66_67_6_7_8_49_&#10;O_H_C_H_N_H_&#10;[(66, 67), (66, 6), (6, 8), (6, 7), (8, 49)]" label="frame=3014&#10;66_67_6_7_8_49_&#10;O_H_C_H_N_H_&#10;[(66, 67), (66, 6), (6, 8), (6, 7), (8, 49)]" />
+      <node id="frame=0&#10;66_67_68_&#10;O_H_H_&#10;[(66, 67), (66, 68)]" label="frame=0&#10;66_67_68_&#10;O_H_H_&#10;[(66, 67), (66, 68)]" />
+    </nodes>
+    <edges>
+      <edge id="0" source="frame=3014&#10;66_67_6_7_8_49_&#10;O_H_C_H_N_H_&#10;[(66, 67), (66, 6), (6, 8), (6, 7), (8, 49)]" target="frame=0&#10;48_49_50_&#10;O_H_H_&#10;[(48, 49), (48, 50)]" />
+      <edge id="1" source="frame=3014&#10;66_67_6_7_8_49_&#10;O_H_C_H_N_H_&#10;[(66, 67), (66, 6), (6, 8), (6, 7), (8, 49)]" target="frame=0&#10;8_6_7_&#10;N_C_H_&#10;[(8, 6), (6, 7)]" />
+      <edge id="2" source="frame=3014&#10;66_67_6_7_8_49_&#10;O_H_C_H_N_H_&#10;[(66, 67), (66, 6), (6, 8), (6, 7), (8, 49)]" target="frame=0&#10;66_67_68_&#10;O_H_H_&#10;[(66, 67), (66, 68)]" />
+    </edges>
+  </graph>
+</gexf>

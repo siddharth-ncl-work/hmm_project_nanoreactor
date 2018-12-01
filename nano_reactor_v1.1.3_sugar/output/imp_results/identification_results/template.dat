@@ -1,0 +1,7 @@
+
+molecule: ch2nh
+file:/home/vanka/tamal/prebiotic_synthesis/sugar_synthesis_HCNH2O_0.75timestep_2.2.md/scr/coord.mol 
+frame range: 0 - 78860
+inc=1
+
+

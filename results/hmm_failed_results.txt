@@ -1,0 +1,20 @@
+# analysis_1: nano_reactor_v1.1.3_sugar
+
+  1) In collision steps, 41% of the times there was increase in the number of bonds.
+  2) Whenever there was increase in the number of bonds, HMM works(decreases) bonds for about 52% of the times
+  3) The percentage decrease in the number of bonds is 37% (power)
+  4) Average increase in the bonds is 5 and Maximum increase is 12(1 case)
+  
+  Total bonds = ~55
+  Difference = 37%
+
+
+# analysis_2: nano_reactor_v1.1.3_urrey_miller
+
+  1) In collision steps, 27% of the times there was increase in the number of bonds.
+  2) Whenever there was increase in the number of bonds, HMM works(decreases) bonds for about 45% of the times.
+  3) The percentage decrease in the number of bonds is 52% (power)
+  4) Average increase in the bonds is 3 and Maximum increase is 6(1 case)
+
+  Total bonds = ~58
+  Difference = 52%

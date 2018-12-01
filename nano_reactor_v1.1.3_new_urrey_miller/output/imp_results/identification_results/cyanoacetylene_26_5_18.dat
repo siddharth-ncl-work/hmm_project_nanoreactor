@@ -1,0 +1,8 @@
+(26/5/18)
+
+molecule: cyanoacetylene
+file: /home/vanka/tamal/prebiotic_synthesis/sugar_synthesis_HCNH2O_0.75timestep_after1000000.md/scr/coors.mol 
+frame range: 0 - 100000
+inc=1
+
+0 0
