@@ -18,3 +18,6 @@
 
   Total bonds = ~58
   Difference = 52%
+
+# PS: Reference frame for cycle/collision frame analysis is the non-collison
+# step just before first collision step of that cycle
